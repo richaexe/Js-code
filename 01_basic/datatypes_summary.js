@@ -32,3 +32,5 @@ const myfunction = function(){
 }
 
 console.log(typeof anotherId)
+
+// Stack(primitive - change in copy)   Heap (non-primitive - change in original value)
